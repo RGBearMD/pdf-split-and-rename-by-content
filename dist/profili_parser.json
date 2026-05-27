@@ -1,0 +1,29 @@
+{
+    "Schede Esempio Brand1": {
+        "is_auto": false,
+        "keyword_identificazione": "Nome marchio esempio1",
+        "campo_1_nome": "Codice EAN",
+        "campo_1_ancora": "codice ean",
+        "campo_2_nome": "Marchio",
+        "campo_2_ancora": "marchio"
+    },
+    "Schede Esempio Brand2": {
+        "is_auto": false,
+        "keyword_identificazione": "Nome marchio esempio2",
+        "campo_1_nome": "Articolo",
+        "campo_1_ancora": "cod. articolo",
+        "campo_2_nome": "TMC",
+        "campo_2_ancora": "termine minimo di conservazione"
+    },
+    "Rilevamento Automatico": {
+        "is_auto": true
+    },
+    "DIA Rana": {
+        "is_auto": false,
+        "keyword_identificazione": "Rana",
+        "campo_1_nome": "MARCHIO / BRAND",
+        "campo_1_ancora": "MARCHIO / BRAND",
+        "campo_2_nome": "CODICE ARTICOLO / ARTICLE ITEM",
+        "campo_2_ancora": "CODICE ARTICOLO / ARTICLE ITEM"
+    }
+}

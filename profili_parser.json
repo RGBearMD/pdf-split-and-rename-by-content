@@ -1,0 +1,21 @@
+{
+    "Schede Esempio Brand1": {
+        "is_auto": false,
+        "keyword_identificazione": "Nome marchio esempio1",
+        "campo_1_nome": "Codice EAN",
+        "campo_1_ancora": "codice ean",
+        "campo_2_nome": "Marchio",
+        "campo_2_ancora": "marchio"
+    },
+    "Schede Esempio Brand2": {
+        "is_auto": false,
+        "keyword_identificazione": "Nome marchio esempio2",
+        "campo_1_nome": "Articolo",
+        "campo_1_ancora": "cod. articolo",
+        "campo_2_nome": "TMC",
+        "campo_2_ancora": "termine minimo di conservazione"
+    },
+    "Rilevamento Automatico": {
+        "is_auto": true
+    }
+}
